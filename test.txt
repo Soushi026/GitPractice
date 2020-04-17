@@ -3,3 +3,5 @@ hello world
 added "test" branch
 
 changed test.txt on "test" branch
+
+check revert
